@@ -26,7 +26,7 @@ Or install it yourself as:
 
 ## Usage
 
-see the examples.
+see the examples or [wiki](https://github.com/cuihq/term/wiki)
 
 ## Development
 
