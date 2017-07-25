@@ -26,7 +26,12 @@ Or install it yourself as:
 
 ## Usage
 
-see the examples or [wiki](https://github.com/cuihq/term/wiki)
+```ruby
+require 'term'
+"hello world?".red.ok?
+```
+
+more info see the examples or [wiki](https://github.com/cuihq/term/wiki)
 
 ## Development
 
