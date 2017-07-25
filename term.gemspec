@@ -22,8 +22,6 @@ Gem::Specification.new do |s|
   s.files       = Dir['LICENSE.txt', 'README.md', "lib/**/*"]
   s.require_path = 'lib'
 
-  s.homepage    = 'https://github.com/cuihq/md5check'
-
   s.add_dependency 'artii'
   s.add_dependency 'rqrcode'
   s.add_dependency 'unicode-display_width'
