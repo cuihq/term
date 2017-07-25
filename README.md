@@ -8,7 +8,7 @@ A toolkit of Terminal. Rich support for color, mouse, and lightweight component.
 
 ### required
 
-> ruby 2.0
+> \>ruby 2.0
 
 Add this line to your application's Gemfile:
 
