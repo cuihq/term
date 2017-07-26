@@ -1,6 +1,5 @@
 # Term
-
-[![Gem](https://img.shields.io/gem/v/term.svg)](https://rubygems.org/gems/term)
+[![license](https://img.shields.io/github/license/cuihq/term.svg)](https://cuihq.mit-license.org)[![Gem](https://img.shields.io/gem/v/term.svg)](https://rubygems.org/gems/term) 
 
 A toolkit of Terminal. Rich support for color, mouse, and lightweight component.
 
